@@ -1,0 +1,34 @@
+{
+  "name": "Mongomons #5024",
+  "symbol": "MONGO",
+  "description": "Mongomons is a collection of exceptionally detailed creatures.",
+  "seller_fee_basis_points": 1000,
+  "image": "https://arweave.net/W4eiYQiolcME45igtgN4RFtnUqM8paR3WF0d4wxAk4I",
+  "external_url": "https://www.mongomons.com",
+  "edition": 0,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "The Walking Mongo"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://arweave.net/W4eiYQiolcME45igtgN4RFtnUqM8paR3WF0d4wxAk4I",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "9TNxwFaVEHAZrXkGQm9Pqi3AixNbXyUHdx36T8eGD9E5",
+        "share": 50
+      },
+      {
+        "address": "G6BXCgr9qHZkyhWKB4umz9WZkq9VzMtYXCtbNnPtjB26",
+        "share": 50
+      }
+    ]
+  }
+}

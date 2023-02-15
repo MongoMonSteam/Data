@@ -1,0 +1,34 @@
+{
+  "name": "Mongomons #461",
+  "symbol": "MONGO",
+  "description": "Mongomons is a collection of exceptionally detailed creatures.",
+  "seller_fee_basis_points": 1000,
+  "image": "https://arweave.net/tXBqa2JJWo-Np5sXDSwbZET0qMBGa7WYcg9gY9hhChA",
+  "external_url": "https://www.mongomons.com",
+  "edition": 0,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Space mongo"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://arweave.net/tXBqa2JJWo-Np5sXDSwbZET0qMBGa7WYcg9gY9hhChA",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "9TNxwFaVEHAZrXkGQm9Pqi3AixNbXyUHdx36T8eGD9E5",
+        "share": 50
+      },
+      {
+        "address": "G6BXCgr9qHZkyhWKB4umz9WZkq9VzMtYXCtbNnPtjB26",
+        "share": 50
+      }
+    ]
+  }
+}

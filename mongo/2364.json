@@ -1,0 +1,50 @@
+{
+  "name": "Mongomons #2364",
+  "symbol": "MONGO",
+  "description": "Mongomons is a collection of exceptionally detailed creatures.",
+  "seller_fee_basis_points": 1000,
+  "image": "https://mongo.mypinata.cloud/ipfs/QmUEa885p2wse9ncd6oKVLEv5GegxhKrAVsELs6BH6w3Mm/2364.png",
+  "external_url": "https://www.mongomons.com",
+  "edition": 0,
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Naval Hat"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "White Shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Snow Leopard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://mongo.mypinata.cloud/ipfs/QmUEa885p2wse9ncd6oKVLEv5GegxhKrAVsELs6BH6w3Mm/2364.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "9TNxwFaVEHAZrXkGQm9Pqi3AixNbXyUHdx36T8eGD9E5",
+        "share": 50
+      },
+      {
+        "address": "G6BXCgr9qHZkyhWKB4umz9WZkq9VzMtYXCtbNnPtjB26",
+        "share": 50
+      }
+    ]
+  }
+}
