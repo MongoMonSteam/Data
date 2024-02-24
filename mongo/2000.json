@@ -3,7 +3,7 @@
   "symbol": "MONGO",
   "description": "Mongomons is a collection of exceptionally detailed creatures.",
   "seller_fee_basis_points": 1000,
-  "image": "https://mongo.mypinata.cloud/ipfs/QmUEa885p2wse9ncd6oKVLEv5GegxhKrAVsELs6BH6w3Mm/2000.png",
+  "image": "https://arweave.net/b-xvEtcJKyPK4JT0IrxvttByoMDwiZEAP2u7kXLpUX8/2001.png",
   "external_url": "https://www.mongomons.com",
   "edition": 0,
   "attributes": [
@@ -27,7 +27,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://mongo.mypinata.cloud/ipfs/QmUEa885p2wse9ncd6oKVLEv5GegxhKrAVsELs6BH6w3Mm/2000.png",
+        "uri": "https://arweave.net/b-xvEtcJKyPK4JT0IrxvttByoMDwiZEAP2u7kXLpUX8/2001.png",
         "type": "image/png"
       }
     ],
