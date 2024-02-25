@@ -1,58 +1,58 @@
 {
-  "name": "Mongomons #5150",
-  "symbol": "MONGO",
-  "description": "Mongomons is a collection of exceptionally detailed creatures.",
-  "seller_fee_basis_points": 1000,
-  "image": "https://mongo.mypinata.cloud/ipfs/QmUEa885p2wse9ncd6oKVLEv5GegxhKrAVsELs6BH6w3Mm/5150.png",
-  "external_url": "https://www.mongomons.com",
-  "edition": 0,
-  "attributes": [
-    {
-      "trait_type": "Hat",
-      "value": "Military Hat"
-    },
-    {
-      "trait_type": "Body Addition",
-      "value": "Tail"
-    },
-    {
-      "trait_type": "Cloth",
-      "value": "Hype Japan Shirt"
-    },
-    {
-      "trait_type": "Background",
-      "value": "Silver"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Pikachu"
-    },
-    {
-      "trait_type": "Face Accesories",
-      "value": "Modern Sunglasses"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "White"
-    }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://mongo.mypinata.cloud/ipfs/QmUEa885p2wse9ncd6oKVLEv5GegxhKrAVsELs6BH6w3Mm/5150.png",
-        "type": "image/png"
-      }
+    "name": "Mongomons #5150",
+    "symbol": "MONGO",
+    "description": "Mongomons is a collection of exceptionally detailed creatures.",
+    "seller_fee_basis_points": 1000,
+    "image": "https://arweave.net/5TNtaFsR9FIvaK589g2T13ncYYqwJlfMlnUkrJcwrjA/5150.png",
+    "external_url": "https://www.mongomons.com",
+    "edition": 0,
+    "attributes": [
+        {
+            "trait_type": "Hat",
+            "value": "Military Hat"
+        },
+        {
+            "trait_type": "Body Addition",
+            "value": "Tail"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Hype Japan Shirt"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Silver"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Pikachu"
+        },
+        {
+            "trait_type": "Face Accesories",
+            "value": "Modern Sunglasses"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "White"
+        }
     ],
-    "category": "image",
-    "creators": [
-      {
-        "address": "9TNxwFaVEHAZrXkGQm9Pqi3AixNbXyUHdx36T8eGD9E5",
-        "share": 50
-      },
-      {
-        "address": "G6BXCgr9qHZkyhWKB4umz9WZkq9VzMtYXCtbNnPtjB26",
-        "share": 50
-      }
-    ]
-  }
+    "properties": {
+        "files": [
+            {
+                "uri": "https://arweave.net/5TNtaFsR9FIvaK589g2T13ncYYqwJlfMlnUkrJcwrjA/5150.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9TNxwFaVEHAZrXkGQm9Pqi3AixNbXyUHdx36T8eGD9E5",
+                "share": 50
+            },
+            {
+                "address": "G6BXCgr9qHZkyhWKB4umz9WZkq9VzMtYXCtbNnPtjB26",
+                "share": 50
+            }
+        ]
+    }
 }

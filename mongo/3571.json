@@ -1,46 +1,46 @@
 {
-  "name": "Mongomons #3571",
-  "symbol": "MONGO",
-  "description": "Mongomons is a collection of exceptionally detailed creatures.",
-  "seller_fee_basis_points": 1000,
-  "image": "https://mongo.mypinata.cloud/ipfs/QmUEa885p2wse9ncd6oKVLEv5GegxhKrAVsELs6BH6w3Mm/3571.png",
-  "external_url": "https://www.mongomons.com",
-  "edition": 0,
-  "attributes": [
-    {
-      "trait_type": "Hat",
-      "value": "Cowboy Hat"
-    },
-    {
-      "trait_type": "Background",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Snow Leopard"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Epic White"
-    }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://mongo.mypinata.cloud/ipfs/QmUEa885p2wse9ncd6oKVLEv5GegxhKrAVsELs6BH6w3Mm/3571.png",
-        "type": "image/png"
-      }
+    "name": "Mongomons #3571",
+    "symbol": "MONGO",
+    "description": "Mongomons is a collection of exceptionally detailed creatures.",
+    "seller_fee_basis_points": 1000,
+    "image": "https://arweave.net/5n7936WYIgusv3CqZsKzdtNJuZSlgW2BFiD_OA6z4sQ/3571.png",
+    "external_url": "https://www.mongomons.com",
+    "edition": 0,
+    "attributes": [
+        {
+            "trait_type": "Hat",
+            "value": "Cowboy Hat"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Snow Leopard"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Epic White"
+        }
     ],
-    "category": "image",
-    "creators": [
-      {
-        "address": "9TNxwFaVEHAZrXkGQm9Pqi3AixNbXyUHdx36T8eGD9E5",
-        "share": 50
-      },
-      {
-        "address": "G6BXCgr9qHZkyhWKB4umz9WZkq9VzMtYXCtbNnPtjB26",
-        "share": 50
-      }
-    ]
-  }
+    "properties": {
+        "files": [
+            {
+                "uri": "https://arweave.net/5n7936WYIgusv3CqZsKzdtNJuZSlgW2BFiD_OA6z4sQ/3571.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9TNxwFaVEHAZrXkGQm9Pqi3AixNbXyUHdx36T8eGD9E5",
+                "share": 50
+            },
+            {
+                "address": "G6BXCgr9qHZkyhWKB4umz9WZkq9VzMtYXCtbNnPtjB26",
+                "share": 50
+            }
+        ]
+    }
 }

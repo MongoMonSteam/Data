@@ -1,54 +1,54 @@
 {
-  "name": "Mongomons #3524",
-  "symbol": "MONGO",
-  "description": "Mongomons is a collection of exceptionally detailed creatures.",
-  "seller_fee_basis_points": 1000,
-  "image": "https://mongo.mypinata.cloud/ipfs/QmUEa885p2wse9ncd6oKVLEv5GegxhKrAVsELs6BH6w3Mm/3524.png",
-  "external_url": "https://www.mongomons.com",
-  "edition": 0,
-  "attributes": [
-    {
-      "trait_type": "Hat",
-      "value": "Naval Hat"
-    },
-    {
-      "trait_type": "Cloth",
-      "value": "Checkered T-Shirt"
-    },
-    {
-      "trait_type": "Background",
-      "value": "Light Blue"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Panther"
-    },
-    {
-      "trait_type": "Face Accesories",
-      "value": "Classic Glasses"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "White"
-    }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://mongo.mypinata.cloud/ipfs/QmUEa885p2wse9ncd6oKVLEv5GegxhKrAVsELs6BH6w3Mm/3524.png",
-        "type": "image/png"
-      }
+    "name": "Mongomons #3524",
+    "symbol": "MONGO",
+    "description": "Mongomons is a collection of exceptionally detailed creatures.",
+    "seller_fee_basis_points": 1000,
+    "image": "https://arweave.net/O-C8tp6QroNqQf4nE2CkkdOmuy0a19V88A7xYaDQdfo/3524.png",
+    "external_url": "https://www.mongomons.com",
+    "edition": 0,
+    "attributes": [
+        {
+            "trait_type": "Hat",
+            "value": "Naval Hat"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Checkered T-Shirt"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Panther"
+        },
+        {
+            "trait_type": "Face Accesories",
+            "value": "Classic Glasses"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "White"
+        }
     ],
-    "category": "image",
-    "creators": [
-      {
-        "address": "9TNxwFaVEHAZrXkGQm9Pqi3AixNbXyUHdx36T8eGD9E5",
-        "share": 50
-      },
-      {
-        "address": "G6BXCgr9qHZkyhWKB4umz9WZkq9VzMtYXCtbNnPtjB26",
-        "share": 50
-      }
-    ]
-  }
+    "properties": {
+        "files": [
+            {
+                "uri": "https://arweave.net/O-C8tp6QroNqQf4nE2CkkdOmuy0a19V88A7xYaDQdfo/3524.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9TNxwFaVEHAZrXkGQm9Pqi3AixNbXyUHdx36T8eGD9E5",
+                "share": 50
+            },
+            {
+                "address": "G6BXCgr9qHZkyhWKB4umz9WZkq9VzMtYXCtbNnPtjB26",
+                "share": 50
+            }
+        ]
+    }
 }
